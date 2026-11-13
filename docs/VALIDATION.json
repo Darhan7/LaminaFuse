@@ -1,0 +1,14 @@
+{
+  "test_frame": "MS2 index 0, left, original registered float32 input",
+  "weights_identical": true,
+  "cpu_reference_vs_external_backbone_max_abs": 0.0,
+  "cpu_vs_historical_gpu_cache_max_abs": 0.00034624338150024414,
+  "analytic_vs_paper_cache_max_abs": {
+    "analytic-contrast": 0.0,
+    "analytic-intensity": 0.0
+  },
+  "registration_fallback": "visible value outside the valid mask",
+  "training_performed": false,
+  "upstream_code_bundled": false,
+  "fresh_environment_install_tested": false
+}

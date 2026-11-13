@@ -1,0 +1,28 @@
+{
+  "source_checkpoint_sha256": "d77c123098b7f4f09446e16b7858b1d8f5181b18d75c3125156f892b95ccb4b5",
+  "export_checkpoint_sha256": "6eb96d1baf46d8c8a01815e81e07374d1bc1c1af03efc8609f4b925fad99a537",
+  "bytes": 7614838,
+  "epoch": 8,
+  "fuser_kwargs": {
+    "feat_dim": 256,
+    "reduction": 4,
+    "use_guided_filter": false,
+    "guided_radius": 5,
+    "lifr_enable": false,
+    "dark_repair_enable": false,
+    "dark_repair_scale": 1.0,
+    "dark_repair_blur_kernel": 15,
+    "fuse_domain": "lamina",
+    "lamina_prior": true,
+    "lamina_prior_p": 2.0,
+    "lamina_polarity": false,
+    "fullres_refine": true
+  },
+  "exported_keys": [
+    "fuser",
+    "fuser_kwargs",
+    "epoch"
+  ],
+  "distribution_status": "Published with the source release; no separate redistribution license has been selected.",
+  "repository_path": "checkpoints/laminafuse_epoch08.pt"
+}

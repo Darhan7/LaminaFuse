@@ -1,0 +1,25 @@
+LaminaFuse: dependency provenance (checked 2026-11-13)
+
+PixelNIR
+Official repository: https://github.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo
+Pinned commit: 8215f4d31d588c3c06e75ec6959b75474002bb7e
+Relevant files: net/extractor.py and net/fusion.py.
+GitHub metadata reports license=null; the license endpoint returns HTTP 404.
+The complete recursive file tree contains no LICENSE/COPYING/NOTICE file.
+README and relevant source files contain no identified license grant.
+This establishes that a grant was not found at this revision, not that the authors prohibit all use.
+The release candidate does not redistribute these source files. scripts/prepare_backbone.py obtains only the two required files from the pinned official revision and verifies their hashes. These downloaded files remain local under external/ and are excluded from the source release. A small loader also supports a separately obtained official checkout. External dependency loading does not create or override upstream permissions. Preserve citation and attribution; clarify upstream permissions before deciding whether to vendor or relicense any of this code.
+
+RAFT-Stereo
+https://github.com/princeton-vl/RAFT-Stereo
+Official repository metadata identifies MIT. Not bundled in this candidate.
+
+IGEV++
+https://github.com/gangweiX/IGEV-plusplus
+Official repository metadata identifies MIT. Not bundled in this candidate.
+
+Data and weights
+Dataset licenses are separate from source-code licenses. Dataset imagery is not bundled. Public availability of weights does not itself establish a distribution license. The LaminaFuse epoch-8 tensor-only checkpoint is included under checkpoints/. No separate redistribution license has been selected for it.
+
+LaminaFuse-owned code
+A top-level license has not yet been selected. Ownership/contributor permissions and the scope of the original code license must be confirmed by the author. No license is applied to third-party material by this notice.

@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+external/
+checkpoints/
+outputs/
+datasets/
+*.pt
+*.pth
+*.npz
+*.h5
+*.hdf5
+*.log
+.ipynb_checkpoints/
+
+# The compact paper checkpoint is deliberately versioned.
+!checkpoints/
+checkpoints/*
+!checkpoints/laminafuse_epoch08.pt

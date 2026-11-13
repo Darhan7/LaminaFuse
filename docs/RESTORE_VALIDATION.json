@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-13",
+  "pinned_commit": "8215f4d31d588c3c06e75ec6959b75474002bb7e",
+  "upstream_files_downloaded": [
+    "net/extractor.py",
+    "net/fusion.py"
+  ],
+  "sha256_verification": true,
+  "offline_restore_test": true,
+  "idempotence_test": true,
+  "modified_destination_preserved": true,
+  "bad_hash_leaves_no_partial_install": true,
+  "tests_passed": 9,
+  "clean_source_archive_restore_and_learned_inference": "passed; demo output byte-identical",
+  "environment_variable_required_for_default_location": false,
+  "original_cpu_model_max_abs_difference_on_MS2_frame_0": 0.0,
+  "third_party_source_in_archive": false,
+  "checkpoints_in_source_archive": false,
+  "fresh_environment_dependency_install_tested": false,
+  "checkpoint_versioned_in_github": true,
+  "checks_run_before_publication": true
+}

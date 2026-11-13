@@ -1,0 +1,5 @@
+Python 3.13.16
+PyTorch 2.11.0+cu128
+NumPy 2.5.4
+Pillow 12.3.0
+Linux, CPU inference validation. These are the observed local versions, not a claim of fresh-environment installation testing.

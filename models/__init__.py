@@ -1,1 +1,1 @@
-"""fusion_selfsup model components."""
+"""LaminaFuse inference components."""

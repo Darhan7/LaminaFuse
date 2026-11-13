@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo",
+  "commit": "8215f4d31d588c3c06e75ec6959b75474002bb7e",
+  "github_license": null,
+  "license_endpoint_status": 404,
+  "files": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo/8215f4d31d588c3c06e75ec6959b75474002bb7e/README.md",
+      "sha256": "50ebaaab9fb45a5dd4e3fbef5d9dee9dc944701b34346c94d71c4ced7a4151e3",
+      "license_or_copyright_lines": []
+    },
+    "net/extractor.py": {
+      "url": "https://raw.githubusercontent.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo/8215f4d31d588c3c06e75ec6959b75474002bb7e/net/extractor.py",
+      "sha256": "d623ff9db6b08b202378edd7d91837c508c1d1312c8b577f22761a4f93e6272d",
+      "license_or_copyright_lines": []
+    },
+    "net/fusion.py": {
+      "url": "https://raw.githubusercontent.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo/8215f4d31d588c3c06e75ec6959b75474002bb7e/net/fusion.py",
+      "sha256": "3f1df03e22fbde20270df774a37d2e8715fdf6e08b80f9f4c6d220a6125dce90",
+      "license_or_copyright_lines": []
+    },
+    "net/image_fusion.py": {
+      "url": "https://raw.githubusercontent.com/divisonofficer/Pixel_aligned_RGB_NIR_Stereo/8215f4d31d588c3c06e75ec6959b75474002bb7e/net/image_fusion.py",
+      "sha256": "f23a4ebcfc6f9bd7dca8787f9528757c93c02838a89db7ac7ced6c8073876845",
+      "license_or_copyright_lines": []
+    }
+  }
+}
